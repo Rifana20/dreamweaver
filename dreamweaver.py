@@ -49,7 +49,7 @@ st.markdown("<p style='text-align: center;'>Enter your dream and we'll turn it i
 
 # Function to fetch image from Unsplash API
 def fetch_image(prompt):
-    api_key = 'TnqkOGNvfEqFAO7LfSY1cIz3WbTywVWMq7kbQ1svVnU'  # Your Unsplash API key
+    api_key = 'your-key'  # Your Unsplash API key
     api_url = f'https://api.unsplash.com/photos/random?query={prompt}&client_id={api_key}'
 
     try:
