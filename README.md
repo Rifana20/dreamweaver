@@ -28,7 +28,8 @@ Let your imagination fly, and see your dreams visualized in stunning form.
 ## 🖼️ Screenshots
 
 ### 🧠 Dream Input Interface  
-![Screenshot (678)](https://github.com/user-attachments/assets/360aa37c-3bd0-4137-b09d-443abf849795)
+![Screenshot (678)](https://github.com/user-attachments/assets/e978f7ba-4633-4b25-9632-dbcbb83017af)
+
 
 ### 🌠 Dream Visualization Output  
 ![Screenshot (677)](https://github.com/user-attachments/assets/22601358-57b0-4d56-8226-82a7be88deb3)
@@ -56,63 +57,55 @@ Follow these steps to run DreamWeaver on your local machine:
 
 ### 1. Clone the Repository
 
-```bash
 - git clone https://github.com/your-username/dreamweaver.git
 - cd dreamweaver
 - pip install streamlit requests
 - api_key = 'your_unsplash_api_key_here'
 - streamlit run app.py
+
 ## 🔮 Future Enhancements
 Here's what's planned for DreamWeaver:
 
-- 🎨 Advanced AI Art Generation
-Integrate models like Stable Diffusion or DALL·E for more surreal and artistic images.
+- 🎨 **Advanced AI Art Generation**  
+  Integrate models like Stable Diffusion or DALL·E for more surreal and artistic images.
 
-- 🎧 Dream-Specific Music Generation
-Use tools like Mubert or Melobytes to dynamically generate ambient tracks tailored to each dream.
+- 🎧 **Dream-Specific Music Generation**  
+  Use tools like Mubert or Melobytes to dynamically generate ambient tracks tailored to each dream.
 
-- 📝 Dream Diary System
-Allow users to save, tag, and revisit their dream visualizations.
+- 📝 **Dream Diary System**  
+  Allow users to save, tag, and revisit their dream visualizations.
 
-- 🧠 Dream Analysis via NLP
-Analyze dream texts to detect moods, themes, or emotions.
+- 🧠 **Dream Analysis via NLP**  
+  Analyze dream texts to detect moods, themes, or emotions.
 
-- 📱 Mobile App (Android/iOS)
-Bring DreamWeaver to phones with native mobile apps.
+- 📱 **Mobile App (Android/iOS)**  
+  Bring DreamWeaver to phones with native mobile apps.
 
-- 🔐 User Accounts & Dream History
-Add authentication and cloud storage using Firebase or Supabase.
+- 🔐 **User Accounts & Dream History**  
+  Add authentication and cloud storage using Firebase or Supabase.
 
-- 🌐 Multi-language Input Support
-Accept dream descriptions in multiple languages using translation APIs.
+- 🌐 **Multi-language Input Support**  
+  Accept dream descriptions in multiple languages using translation APIs.
 
 ## 🤝 Contributing
 We love contributions!
 
 - To contribute:
-
-- Fork the repository
-
-- Create a feature branch (git checkout -b feature-name)
-
-- Commit your changes
-
-- Push to the branch
-
-- Create a Pull Request
-
-- Feel free to open issues for bugs, feature ideas, or questions.
+  - Fork the repository
+  - Create a feature branch (`git checkout -b feature-name`)
+  - Commit your changes
+  - Push to the branch
+  - Create a Pull Request
+  - Feel free to open issues for bugs, feature ideas, or questions.
 
 ## 📜 License
-- This project is licensed under the MIT License.
+This project is licensed under the MIT License.  
 See the LICENSE file for more details.
 
 ## ✨ Credits
 - Developer: Rifana Sherin
-
 - Image API: Unsplash
-
 - Background Music: SoundHelix
 
-### "Let your imagination take flight —
+### "Let your imagination take flight —  
 Dream. Visualize. Feel." 🌙
