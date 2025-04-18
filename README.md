@@ -5,8 +5,8 @@
 
 -Let your imagination fly, and see your dreams come to life in stunning visual form.
 
-#🚀 Features
--✨ AI-Powered Image Generation from user dream descriptions.
+🚀 Features
+-✨ AIPowered Image Generation from user dream descriptions.
 
 -🎵 Soothing Background Music to enhance the dreamlike experience.
 
