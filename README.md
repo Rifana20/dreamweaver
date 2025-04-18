@@ -28,16 +28,13 @@ Let your imagination fly, and see your dreams visualized in stunning form.
 ## 🖼️ Screenshots
 
 ### 🧠 Dream Input Interface  
-<img src="![Screenshot (678)](https://github.com/user-attachments/assets/360aa37c-3bd0-4137-b09d-443abf849795)
-" width="600"/>
+![Screenshot (678)](https://github.com/user-attachments/assets/360aa37c-3bd0-4137-b09d-443abf849795)
 
 ### 🌠 Dream Visualization Output  
-<img src="![Screenshot (677)](https://github.com/user-attachments/assets/22601358-57b0-4d56-8226-82a7be88deb3)
-" width="600"/>
-<img src="![Screenshot (676)](https://github.com/user-attachments/assets/cd56ee9b-7001-4b22-b3f8-4c18ca446d22)
-" width="600"/>
-<img src="![Screenshot (674)](https://github.com/user-attachments/assets/4c4974e7-a212-417c-b2c2-6a8059dba3de)
-" width="600"/>
+![Screenshot (677)](https://github.com/user-attachments/assets/22601358-57b0-4d56-8226-82a7be88deb3)
+![Screenshot (676)](https://github.com/user-attachments/assets/cd56ee9b-7001-4b22-b3f8-4c18ca446d22)
+![Screenshot (674)](https://github.com/user-attachments/assets/4c4974e7-a212-417c-b2c2-6a8059dba3de)
+
 
 
 ---
