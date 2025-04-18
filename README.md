@@ -28,12 +28,17 @@ Let your imagination fly, and see your dreams visualized in stunning form.
 ## 🖼️ Screenshots
 
 ### 🧠 Dream Input Interface  
-<img src="screenshots/screenshot_674.png" width="600"/>
+<img src="![Screenshot (678)](https://github.com/user-attachments/assets/360aa37c-3bd0-4137-b09d-443abf849795)
+" width="600"/>
 
 ### 🌠 Dream Visualization Output  
-<img src="screenshots/screenshot_677.png" width="600"/>
+<img src="![Screenshot (677)](https://github.com/user-attachments/assets/22601358-57b0-4d56-8226-82a7be88deb3)
+" width="600"/>
+<img src="![Screenshot (676)](https://github.com/user-attachments/assets/cd56ee9b-7001-4b22-b3f8-4c18ca446d22)
+" width="600"/>
+<img src="![Screenshot (674)](https://github.com/user-attachments/assets/4c4974e7-a212-417c-b2c2-6a8059dba3de)
+" width="600"/>
 
-> 📌 *Replace the image paths with your actual file paths in the repo.*
 
 ---
 
@@ -55,62 +60,62 @@ Follow these steps to run DreamWeaver on your local machine:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/dreamweaver.git
-cd dreamweaver
-pip install streamlit requests
-api_key = 'your_unsplash_api_key_here'
-streamlit run app.py
-🔮 Future Enhancements
+- git clone https://github.com/your-username/dreamweaver.git
+- cd dreamweaver
+- pip install streamlit requests
+- api_key = 'your_unsplash_api_key_here'
+- streamlit run app.py
+## 🔮 Future Enhancements
 Here's what's planned for DreamWeaver:
 
-🎨 Advanced AI Art Generation
+- 🎨 Advanced AI Art Generation
 Integrate models like Stable Diffusion or DALL·E for more surreal and artistic images.
 
-🎧 Dream-Specific Music Generation
+- 🎧 Dream-Specific Music Generation
 Use tools like Mubert or Melobytes to dynamically generate ambient tracks tailored to each dream.
 
-📝 Dream Diary System
+- 📝 Dream Diary System
 Allow users to save, tag, and revisit their dream visualizations.
 
-🧠 Dream Analysis via NLP
+- 🧠 Dream Analysis via NLP
 Analyze dream texts to detect moods, themes, or emotions.
 
-📱 Mobile App (Android/iOS)
+- 📱 Mobile App (Android/iOS)
 Bring DreamWeaver to phones with native mobile apps.
 
-🔐 User Accounts & Dream History
+- 🔐 User Accounts & Dream History
 Add authentication and cloud storage using Firebase or Supabase.
 
-🌐 Multi-language Input Support
+- 🌐 Multi-language Input Support
 Accept dream descriptions in multiple languages using translation APIs.
 
-🤝 Contributing
+## 🤝 Contributing
 We love contributions!
 
-To contribute:
+- To contribute:
 
-Fork the repository
+- Fork the repository
 
-Create a feature branch (git checkout -b feature-name)
+- Create a feature branch (git checkout -b feature-name)
 
-Commit your changes
+- Commit your changes
 
-Push to the branch
+- Push to the branch
 
-Create a Pull Request
+- Create a Pull Request
 
-Feel free to open issues for bugs, feature ideas, or questions.
+- Feel free to open issues for bugs, feature ideas, or questions.
 
-📜 License
-This project is licensed under the MIT License.
+## 📜 License
+- This project is licensed under the MIT License.
 See the LICENSE file for more details.
 
-✨ Credits
-Developer: Rifana Sherin
+## ✨ Credits
+- Developer: Rifana Sherin
 
-Image API: Unsplash
+- Image API: Unsplash
 
-Background Music: SoundHelix
+- Background Music: SoundHelix
 
-"Let your imagination take flight —
+### "Let your imagination take flight —
 Dream. Visualize. Feel." 🌙
